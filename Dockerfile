@@ -71,7 +71,7 @@ ENV PATH="${PATH}:${HOME}/.dotnet/tools"
 RUN echo "$PATH"
 
 # Install kernel specs
-RUN dotnet try jupyter install
+RUN dotnet-try install jupyter
 
 # Enable telemetry once we install jupyter for the image
 ENV DOTNET_TRY_CLI_TELEMETRY_OPTOUT=false
