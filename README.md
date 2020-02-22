@@ -1,7 +1,5 @@
 # binder-dotnet2
 
-# binder-dotnet
-
 [![Open in binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/op07n/binder-dotnet2/master)
 
 https://github.com/dotnet/interactive/blob/master/docs/CreateBinder.md
