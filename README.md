@@ -9,3 +9,6 @@ https://jupyter-docker-stacks.readthedocs.io/en/latest/using/running.html#using-
 https://github.com/shanselman/DotNetInteractiveExamples
 
 https://github.com/aslotte/mldotnet-real-time-data-streaming-workshop
+
+https://github.com/ewinnington/noteb
+
